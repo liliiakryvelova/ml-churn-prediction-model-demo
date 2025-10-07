@@ -124,7 +124,7 @@ data/
 *.pb
 
 # Screenshots and images (optional - uncomment if you don't want to track them)
-*.png
+# *.png
 *.jpg
 *.jpeg
 *.gif
